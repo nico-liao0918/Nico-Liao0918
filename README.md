@@ -29,11 +29,18 @@
 
 #### These are supported funding model platforms
 
-patreon: 
+patreon:
+
 <https://patreon.com/JamesDominicLiao_Nicoliao0918>
-ko_fi: 
+
+ko_fi:
+
 <https://buymeacoffee.com/nicoliao12q>
-buy_me_a_coffee: 
+
+buy_me_a_coffee:
+
 <https://ko-fi.com/jamesliao>
-paypal: 
+
+paypal:
+
 <https://paypal.me/liaoPH09>
