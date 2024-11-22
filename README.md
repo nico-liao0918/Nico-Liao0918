@@ -6,7 +6,7 @@
 💡 Passionate about exploring **Web Development**, **Python Programs**, **Blockchain**, **Cryptocurrency**, and **AI**.  
 👨‍💻 Currently at a **basic to intermediate** level with:
 - **Languages**: HTML, CSS, Python, JavaScript, Solidity  
-- **Frameworks/Tools**: Next.js, Hardhat, Remix IDE  
+- **Frameworks/Tools**: Next.js, Hardhat, Remix IDE, VS Code, VS Studio  
 
 🤝 Always eager to learn new things and collaborate on exciting projects!
 
