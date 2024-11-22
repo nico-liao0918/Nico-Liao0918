@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**nico-liao0918/nico-liao0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nico Liao (nico-liao0918)
 
-Here are some ideas to get you started:
+🌱 **Learner**  
+💡 Passionate about exploring **Web Development**, **Python Programs**, **Blockchain**, **Cryptocurrency**, and **AI**.  
+👨‍💻 Currently at a **basic to intermediate** level with:
+- **Languages**: HTML, CSS, Python, JavaScript, Solidity  
+- **Frameworks/Tools**: Next.js, Hardhat, Remix IDE  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Always eager to learn new things and collaborate on exciting projects!
+
+---
+
+## 🚀 Skills & Technologies
+
+![HTML Badge](https://img.shields.io/badge/HTML-5-orange)  
+![CSS Badge](https://img.shields.io/badge/CSS-3-blue)  
+![Python Badge](https://img.shields.io/badge/Python-3.9-blue)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+![Solidity Badge](https://img.shields.io/badge/Solidity-0.8-darkblue)  
+![Next.js Badge](https://img.shields.io/badge/Next.js-Framework-lightgrey)  
+![Hardhat Badge](https://img.shields.io/badge/Hardhat-Blockchain-blue)  
+![Remix IDE Badge](https://img.shields.io/badge/Remix_IDE-Online_Editor-green)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nico-liao0918&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-liao0918&layout=compact&theme=radical)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nico-liao0918)  
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nico-liao0918)  
+
+---
+
+## 🌟 Fun Fact
+I believe that every day is an opportunity to learn something new. Let’s grow together!
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/james-dominic-liao-3b98a7180/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/nicoliao09)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/jamesliao09/)  
+
+---
