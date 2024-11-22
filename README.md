@@ -22,6 +22,8 @@
 ![Next.js Badge](https://img.shields.io/badge/Next.js-Framework-lightgrey)  
 ![Hardhat Badge](https://img.shields.io/badge/Hardhat-Blockchain-blue)  
 ![Remix IDE Badge](https://img.shields.io/badge/Remix_IDE-Online_Editor-green)  
+![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-blue)  
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 
 ---
 
@@ -29,7 +31,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nico-liao0918&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-liao0918&layout=compact&theme=radical)  
-![Visitors](https://api.countapi.xyz/hit/nico-liao0918/nico-liao0918.svg) 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nico-liao0918)  
 
 ---
