@@ -29,7 +29,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nico-liao0918&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-liao0918&layout=compact&theme=radical)  
-![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/nico-liao0918/nico-liao0918) 
+![Visitors](https://api.countapi.xyz/hit/nico-liao0918/nico-liao0918.svg) 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nico-liao0918)  
 
 ---
